@@ -1,0 +1,72 @@
+  <div class="parent">
+        <div class="home">
+            <div class="homeContent">
+                <p>Welcome to</p>
+                <h1> Family Bakery</h1>
+                <p>We're the biggest, best equipped and most advanced Bakery in the greater Los Angeles area.</p>
+                <button class="btn1">Learn More</button>
+                <button class="btn2">Contact us</button>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="continer">
+        <div class="We">
+            <img src="alexandru-stavrica-170390-800x760.JPG">
+        </div>
+
+        <div class="infos">
+            <h2>Who we are?</h2>
+            <p>We have been operating for over 30 years and are Members of<br> The Federation of Master Builders. We
+                work on projects big and small from small residential extensions<br> to full house. We are so happy
+                with
+                this theme. Everyday it make our lives better.
+            </p>
+            <br>
+            <P>We care about environment.</P> <br>
+            <p>We are trusted by hundreds of clients.</p><br>
+
+            <p>Social media loves us!</p><br>
+            <P>This list is super easy to create</P>
+
+        </div>
+    </div>
+
+
+    <div class="location">
+        <div class="address">
+            <img src="full-2-800x640.JPG">
+
+        </div>
+
+        <div class="add">
+            <h2>Our Location</h2>
+            <p>We have been operating for over 30 years and are Members of The Federation of Master Builders. We
+                work on projects big and small from small residential extensions to full house. We are so happy
+                with this theme. Everyday it make our lives better.<br>
+                <br> </p>
+            <p>Story on projects big and small from small residential extensions to full house. We are so
+                happy with this theme. Everyday it make our lives better.
+
+            </p>
+        </div>
+    </div>
+
+    <div class="products">
+        <h2>Our Baking</h2>
+        <p>Learn more about them. We have worked truly hard to make them perfect for every use.</p>
+
+        <div class="product">
+            <img src="ben-garratt-134774-600x500.JPG" alt="Superior Breads">
+            <h3>Superior Breads</h3>
+            <p>Proin interdum, ante ut sollicitudin commodo, tellus quam sagittis libero, at semper mauris velit a
+                velit. Phasellus commodo turpis et lacinia posuere.</p>
+        </div>
+
+        <div class="product">
+            <img src="stas-ovsky-123540-600x500.JPG" alt="Bagels">
+            <h3>Bagels</h3>
+            <p>Proin interdum, ante ut sollicitudin commodo, tellus quam sagittis libero, at semper mauris velit a
+                velit. Phasellus commodo turpis et lacinia posuere.</p>
+        </div>
